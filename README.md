@@ -1,16 +1,14 @@
-![](https://github.com/airtonlimajr/airtonlimajr/blob/main/Airton%20Lima%20JR%20(4).png)
+![](https://github.com/airtonlimajr/newjob/blob/main/Airton%20Lima%20JR%20(1).png)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/airtonlimajr)](https://github.com/airtonlimajr)
+<p><b>Architect and Urbanist</b> by education, programmer by passion. Despite the focus on <b>Front-end development</b>, I have <b>Full Stack</b> training and skills to work in the most diverse areas. HTML5, CSS3, SASS, Bootstrap, JS, TypeScript, ES6, PHP 7, MySQL, Jquery, Angular, APIs, Adobe XD, Figma, Git and Scrum are some of the tools and methods I have knowledge of.</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airtonlimajr/)](https://www.linkedin.com/in/airtonlimajr/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Itfree)](https://twitter.com/Itfree)
-
-<b>Architect and Urbanist</b> by education, programmer by passion. Despite the focus on <b>Front-end development</b>, I have <b>Full Stack</b> training and skills to work in the most diverse areas. HTML5, CSS3, SASS, Bootstrap, JS, TypeScript, ES6, PHP 7, MySQL, Jquery, Angular, APIs, Adobe XD, Figma, Git and Scrum are some of the tools and methods I have knowledge of.
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> </p>
- 
-  
-  
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airtonlimajr&layout=compact)](https://github.com/airtonlimajr/github-readme-stats)
