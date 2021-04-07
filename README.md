@@ -12,4 +12,5 @@
 <p><b>Architect and Urbanist</b> by education, programmer by passion. Despite the focus on <b>Front-end development</b>, I have <b>Full Stack</b> training and skills to work in the most diverse areas. HTML5, CSS3, SASS, Bootstrap, JS, TypeScript, ES6, PHP 7, MySQL, Jquery, Angular, APIs, Adobe XD, Figma, Git and Scrum are some of the tools and methods I have knowledge of.</p>
 
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airtonlimajr&layout=compact)](https://github.com/airtonlimajr/github-readme-stats)
