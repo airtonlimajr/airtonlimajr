@@ -14,3 +14,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airtonlimajr&layout=compact)](https://github.com/airtonlimajr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airtonlimajr&count_private=true)
