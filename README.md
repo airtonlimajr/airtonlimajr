@@ -7,6 +7,7 @@
 
 :computer:Currently building a blog<br>
 📚 Currently writing an article<br>
+⚡Fun fact: Big Fan of Star Wars! Yes , I,m geek! 
 
 ### Find me elsewhere 🌎
 🐦 [Twitter](https://twitter.com/Itfree) <br>
