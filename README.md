@@ -5,8 +5,8 @@
 
 ### What I'm working on 👨‍💻
 
-:computer:Currently building a blog<br>
-📚 Currently writing an article<br>
+:computer:I’m currently building a blog<br>
+📚 I’m currently learning React <br>
 
 ### Find me elsewhere 🌎
 🐦 [Twitter](https://twitter.com/Itfree) <br>
