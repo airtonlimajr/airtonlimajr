@@ -9,7 +9,7 @@
 📚 I’m currently learning React <br>
 
 ### Find me elsewhere 🌎
-🐦 [Twitter](https://twitter.com/Itfree) <br>
+
 💼 [LinkedIn](https://www.linkedin.com/in/airtonlimajr) <br>
 📸 [Instagram](https://instagram.com/airtonlimajr) <br>
 
