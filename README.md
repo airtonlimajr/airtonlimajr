@@ -10,6 +10,7 @@
 
 ### Find me elsewhere 🌎
 
+🐦 [Twitter](https://twitter.com/AirtonLimaJr1) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/airtonlimajr) <br>
 📸 [Instagram](https://instagram.com/airtonlimajr) <br>
 
