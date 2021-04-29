@@ -2,10 +2,6 @@
 
 🚀 Front-end developer <br>
 :cityscape: Living in São Paulo, Brazil <br>
-
-### What I'm working on 👨‍💻
-
-:computer:I’m currently building a blog<br>
 📚 I’m currently learning React <br>
 
 ### Find me elsewhere 🌎
