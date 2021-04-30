@@ -1,6 +1,6 @@
 ### Hey, I'm Airton! 👋
 
-🚀 Front-end developer <br>
+🚀 Front-end developer Jr<br>
 :cityscape: Living in São Paulo, Brazil <br>
 📚 I’m currently learning React <br>
 
