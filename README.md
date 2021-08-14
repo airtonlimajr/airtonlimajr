@@ -2,7 +2,7 @@
 
 🚀 Front-end developer Junior<br>
 :cityscape: Living in São Paulo, Brazil <br>
-📚 Learning React at @Rocketseat
+📚 Systems analysis and development students at @FIAP
 
 ### Find me elsewhere 🌎
 
