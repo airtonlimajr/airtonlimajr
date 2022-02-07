@@ -1,7 +1,7 @@
 ### Hey, I'm Airton! 👋
 
-🚀 Front-end developer Junior<br>
 :cityscape: Living in São Paulo, Brazil <br>
+🚀 Front-end developer Junior at @Icomm Group<br>
 📚 Systems analysis and development students at @FIAP
 
 ### Find me elsewhere 🌎
