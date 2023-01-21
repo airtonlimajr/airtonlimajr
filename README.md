@@ -2,7 +2,7 @@
 
 :cityscape: Living in São Paulo, Brazil <br>
 🚀 Front-end developer Junior at @Icomm Group<br>
-📚 Systems analysis and development students at @FIAP
+📚 Systems analysis and development students at @Mackenzie
 
 ### Find me elsewhere 🌎
 
